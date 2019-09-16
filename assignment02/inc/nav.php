@@ -1,4 +1,4 @@
-<nav class="menu">
+<nav>
 
 		<ul>
 
