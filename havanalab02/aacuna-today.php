@@ -1,0 +1,25 @@
+<?php 
+$currentPage = "A | Intro";
+include "inc/html-top-a.inc";
+?>
+
+
+ 		<nav>
+	<ul>
+		<li><a href="aacuna-main.php">Intro</a></li>
+		<li><a href="aacuna-today.php" class= "is-current">Today</a></li>
+		<li><a href="aacuna-tomorrow.php">Tomorrow</a></li>
+		<li><a href="aacuna-journey.php"  >journey</a></li>
+	</ul>
+</nav>
+	<main>
+	<p>When I’m not in the classroom or in the library, I’m either running around doing something for my sorority, Gamma Phi Beta. I’m currently the President and I was formerly the Financial Vice President so I guess you could say I’m invested in my sorority. I just want to do the best I can because I’ve gotten to know most of my friends through it! It’s also been a great avenue to do things in the community because I feel like it’s important to get out and get to know the real Rochester if I’m going to say I lived here for four years. That’s why I’ve also dabbled in community service programs here. Recently I joined a pen pal program hosted by the Student Association, and joined the executive aid committee to help plan the program. I’m also a member of Student Programming Board and that’s really fun because we get to plan huge events like concerts for students of the U of R.</p>
+		
+		
+	</main>
+
+<?php include "inc/main-nav2.inc"?>
+
+
+	<?php include "inc/footer.inc"; ?>
+	<?php include "inc/script.inc"; ?>
